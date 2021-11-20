@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sunilvarma6369.lwc-kw7zt7mn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 7BAKVM22eh5lZKFE8dL4 --open"
+  }
+}
